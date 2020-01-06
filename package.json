@@ -1,0 +1,23 @@
+{
+  "name": "sj-express-server",
+  "version": "1.0.0",
+  "description": "my express-server config",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-janibekova/sj-express-server-js.git"
+  },
+  "keywords": [
+    "express",
+    "node.js"
+  ],
+  "author": "s-janibekova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-janibekova/sj-express-server-js/issues"
+  },
+  "homepage": "https://github.com/s-janibekova/sj-express-server-js#readme"
+}
