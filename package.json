@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/s-janibekova/sj-express-server-js/issues"
   },
-  "homepage": "https://github.com/s-janibekova/sj-express-server-js#readme"
+  "homepage": "https://github.com/s-janibekova/sj-express-server-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
